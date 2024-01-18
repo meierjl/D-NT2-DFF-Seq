@@ -1,0 +1,11 @@
+track FJ616285.1-genbank
+type bigGenePred
+group map
+priority 1
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/D-NT2-DFF-Seq/master/FJ616285.1/FJ616285.1.bb
+longLabel Annotated CDS for HCMV strain Towne (FJ616285.1)
+shortLabel GenBank FJ616285.1
+visibility pack
+
+#############
+
