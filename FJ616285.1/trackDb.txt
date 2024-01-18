@@ -16,8 +16,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/D-NT2-DFF
 longLabel Exp2 Pol II Rep1
 shortLabel Exp2 Pol II Rep1
 negateValues off
-color 47,201,255
-altColor 47,201,255
+color 54,22,246
+altColor 54,22,246
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -31,8 +31,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/D-NT2-DFF
 longLabel Exp2 Pol II Rep2
 shortLabel Exp2 Pol II Rep2
 negateValues off
-color 47,201,255
-altColor 47,201,255
+color 54,22,246
+altColor 54,22,246
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -46,8 +46,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/D-NT2-DFF
 longLabel Exp2 TBP Rep1
 shortLabel Exp2 TBP Rep1
 negateValues off
-color 47,201,255
-altColor 47,201,255
+color 54,22,246
+altColor 54,22,246
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -61,8 +61,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/D-NT2-DFF
 longLabel Exp2 TBP Rep2
 shortLabel Exp2 TBP Rep2
 negateValues off
-color 47,201,255
-altColor 47,201,255
+color 54,22,246
+altColor 54,22,246
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -76,8 +76,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/D-NT2-DFF
 longLabel Exp2 Pol III Rep1
 shortLabel Exp2 Pol III Rep1
 negateValues off
-color 47,201,255
-altColor 47,201,255
+color 54,22,246
+altColor 54,22,246
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -91,8 +91,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/D-NT2-DFF
 longLabel Exp2 Pol III Rep2
 shortLabel Exp2 Pol III Rep2
 negateValues off
-color 47,201,255
-altColor 47,201,255
+color 54,22,246
+altColor 54,22,246
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -106,8 +106,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/D-NT2-DFF
 longLabel Exp2 BRF1 Rep1
 shortLabel Exp2 BRF1 Rep1
 negateValues off
-color 47,201,255
-altColor 47,201,255
+color 54,22,246
+altColor 54,22,246
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
@@ -121,8 +121,8 @@ bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/D-NT2-DFF
 longLabel Exp2 BRF1 Rep2
 shortLabel Exp2 BRF1 Rep2
 negateValues off
-color 47,201,255
-altColor 47,201,255
+color 54,22,246
+altColor 54,22,246
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
