@@ -9,3 +9,152 @@ visibility pack
 
 #############
 
+track PolII-DFF-SeqExp2-Rep1
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/D-NT2-DFF-Seq/master/FJ616285.1/DFF-SeqExp2/Pol-II-towne-Rep1.bw
+longLabel Exp2 Pol II Rep1
+shortLabel Exp2 Pol II Rep1
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############	
+
+track PolII-DFF-SeqExp2-Rep2
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/D-NT2-DFF-Seq/master/FJ616285.1/DFF-SeqExp2/Pol-II-towne-Rep2.bw
+longLabel Exp2 Pol II Rep2
+shortLabel Exp2 Pol II Rep2
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############	
+
+track TBP-DFF-SeqExp2-Rep1
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/D-NT2-DFF-Seq/master/FJ616285.1/DFF-SeqExp2/TBP-towne-Rep1.bw
+longLabel Exp2 TBP Rep1
+shortLabel Exp2 TBP Rep1
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############	
+
+track TBP-DFF-SeqExp2-Rep2
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/D-NT2-DFF-Seq/master/FJ616285.1/DFF-SeqExp2/TBP-towne-Rep2.bw
+longLabel Exp2 TBP Rep2
+shortLabel Exp2 TBP Rep2
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############	
+
+track PolIII-DFF-SeqExp2-Rep1
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/D-NT2-DFF-Seq/master/FJ616285.1/DFF-SeqExp2/Pol-III-towne-Rep1.bw
+longLabel Exp2 Pol III Rep1
+shortLabel Exp2 Pol III Rep1
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############	
+
+track PolIII-DFF-SeqExp2-Rep2
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/D-NT2-DFF-Seq/master/FJ616285.1/DFF-SeqExp2/Pol-III-towne-Rep2.bw
+longLabel Exp2 Pol III Rep2
+shortLabel Exp2 Pol III Rep2
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############	
+
+track BRF1-DFF-SeqExp2-Rep1
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/D-NT2-DFF-Seq/master/FJ616285.1/DFF-SeqExp2/BRF1-towne-Rep1.bw
+longLabel Exp2 BRF1 Rep1
+shortLabel Exp2 BRF1 Rep1
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############	
+
+track BRF1-DFF-SeqExp2-Rep2
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/D-NT2-DFF-Seq/master/FJ616285.1/DFF-SeqExp2/BRF1-towne-Rep2.bw
+longLabel Exp2 BRF1 Rep2
+shortLabel Exp2 BRF1 Rep2
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############	
+
+track BDP1-DFF-SeqExp2-Rep1
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/D-NT2-DFF-Seq/master/FJ616285.1/DFF-SeqExp2/BDP1-towne-Rep1.bw
+longLabel Exp2 BDP1 Rep1
+shortLabel Exp2 BDP1 Rep1
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############	
+track BDP1-DFF-SeqExp2-Rep2
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/D-NT2-DFF-Seq/master/FJ616285.1/DFF-SeqExp2/BDP1-towne-Rep2.bw
+longLabel Exp2 BDP1 Rep2
+shortLabel Exp2 BDP1 Rep2
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############	
+
