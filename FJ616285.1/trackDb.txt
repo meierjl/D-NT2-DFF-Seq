@@ -9,6 +9,111 @@ visibility pack
 
 #############
 
+track PolII-DFF-SeqExp1-Rep1
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/D-NT2-DFF-Seq/master/FJ616285.1/DFF-SeqExp1/Pol-II-Rep1_virus.bw
+longLabel Exp1 Pol II Rep1
+shortLabel Exp1 Pol II Rep1
+negateValues off
+color 54,22,246
+altColor 54,22,246
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############	
+
+track PolII-DFF-SeqExp1-Rep2
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/D-NT2-DFF-Seq/master/FJ616285.1/DFF-SeqExp1/Pol-II-Rep2_virus.bw
+longLabel Exp1 Pol II Rep2
+shortLabel Exp1 Pol II Rep2
+negateValues off
+color 54,22,246
+altColor 54,22,246
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############	
+
+track PolIII-DFF-SeqExp1-Rep1
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/D-NT2-DFF-Seq/master/FJ616285.1/DFF-SeqExp1/Pol-III-Rep1_virus.bw
+longLabel Exp1 Pol III Rep1
+shortLabel Exp1 Pol III Rep1
+negateValues off
+color 54,22,246
+altColor 54,22,246
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############	
+
+track PolIII-DFF-SeqExp1-Rep2
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/D-NT2-DFF-Seq/master/FJ616285.1/DFF-SeqExp1/Pol-III-Rep2_virus.bw
+longLabel Exp1 Pol III Rep2
+shortLabel Exp1 Pol III Rep2
+negateValues off
+color 54,22,246
+altColor 54,22,246
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############	
+
+track H3K4me3-DFF-SeqExp1-Rep1
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/D-NT2-DFF-Seq/master/FJ616285.1/DFF-SeqExp1/H3K4me3-Rep1_virus.bw
+longLabel Exp1 H3K4me3 Rep1
+shortLabel Exp1 H3K4me3 Rep1
+negateValues off
+color 54,22,246
+altColor 54,22,246
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############	
+
+track H3K4me3-DFF-SeqExp1-Rep2
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/D-NT2-DFF-Seq/master/FJ616285.1/DFF-SeqExp1/H3K4me3-Rep2_virus.bw
+longLabel Exp1 H3K4me3 Rep2
+shortLabel Exp1 H3K4me3 Rep2
+negateValues off
+color 54,22,246
+altColor 54,22,246
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############	
+
+track PolII-DFF-SeqExp2-Rep1
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/D-NT2-DFF-Seq/master/FJ616285.1/DFF-SeqExp2/Pol-II-towne-Rep1.bw
+longLabel Exp2 Pol II Rep1
+shortLabel Exp2 Pol II Rep1
+negateValues off
+color 54,22,246
+altColor 54,22,246
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+	 
+#############	
+
 track PolII-DFF-SeqExp2-Rep1
 type bigWig 0 1000
 visibility full
